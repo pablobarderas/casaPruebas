@@ -30,7 +30,7 @@ public class Ramita {
 	 * 
 	 * @param nombre Nombre que va a ser sustituido
 	 */
-	public void setNombre(String nombre) {
+	public void cambiarNombre(String nombre) {
 		this.nombre = nombre;
 	}
 	
